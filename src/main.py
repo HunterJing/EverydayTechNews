@@ -48,7 +48,7 @@ def technews():
 
 def message():
     text = """
-    <h1>今日科技早报</h1>{}
+    <h1>网易科技早报</h1>{}
     <p>注：这是一封定时邮件，请勿回复该邮件，如果有任何问题或需求，请直接与我们联系。</p>
     """.format(technews())
     return text
