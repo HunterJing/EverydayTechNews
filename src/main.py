@@ -13,7 +13,7 @@ def send_message(sender,password,server,receiver,text):
     password = password
     server = server
     msg = MIMEText(text, 'html', 'utf-8')
-    subject = '今日科技早报'
+    subject = '网易科技早报'
     msg['Subject'] = Header(subject, 'utf-8')  # 邮件主题
     attempt = 1
     while attempt <= 3:
