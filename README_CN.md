@@ -9,7 +9,7 @@
 [forks-url]:https://github.com/NowScott/EverydayTechNews/forks
 [forks-image]:https://img.shields.io/github/forks/NowScott/EverydayTechNews?label=Forks
 
-# 切换为英语
+# 切换为英语🩵
 
 [![readme][readme-image]][readme-url]
 
